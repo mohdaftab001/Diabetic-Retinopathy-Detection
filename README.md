@@ -12,6 +12,28 @@ AI Based Diabetic Retinopathy Detection System
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
+## 📂 Dataset & Model Files
+
+Due to GitHub file size limitations, the complete dataset, trained models, and project assets are hosted on Google Drive.
+
+### Google Drive Folder
+
+🔗 https://drive.google.com/drive/folders/1mGlKIR80h24rsEK13oCD0shriw0YFFjI?usp=sharing
+
+### Folder Contents
+
+- train_images/ (Retinal Fundus Images)
+- train.csv (Dataset Labels)
+- swin_dr_final.pth (Final Trained Swin Transformer Model)
+- swin_half_trained.pth (Intermediate Model Checkpoint)
+- Jupyter Notebooks (.ipynb)
+- Additional Project Assets
+
+### Note
+
+Please download the dataset and model files before running the project locally.
+
+
 ## 📖 Overview
 
 Diabetic Retinopathy (DR) is one of the leading causes of preventable blindness among diabetic patients. Early detection is essential because timely treatment can significantly reduce the risk of vision loss.
